@@ -4,8 +4,6 @@
 description:' '
 main - Entry point
 description:' '
-description:' '
-description:' '
 Return: Always 0 (Success)
 description:' '
      */
