@@ -2,11 +2,11 @@
 #include <unistd.h>
 /*
 description:' '
- *  * main - Entry point
+main - Entry point
 description:' '
 description:' '
 description:' '
- *    * Return: Always 0 (Success)
+Return: Always 0 (Success)
 description:' '
      */
 int main(void)
