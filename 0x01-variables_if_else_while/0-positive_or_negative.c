@@ -4,7 +4,11 @@
 /* betty style doc for function main goes there */
 int main(void)
 {
-/* description:' ' */
+/**
+ *  * main - Entry point
+ *   *
+ *    * Return: Always 0 (Success)
+ *     */
 		int n;
 			srand(time(0));
 				n = rand() - RAND_MAX / 2;
@@ -14,7 +18,7 @@ int main(void)
 				}
 				else if (n == 0)
 				{
-				printd("%d is zero\n", n);
+				printf("%d is zero\n", n);
 				}
 				else if (n < 0)
 				{
