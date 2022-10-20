@@ -3,11 +3,11 @@
  * function - main
  * description print alphapet
  */
-int main(void)
+void print_alphabet(void)
 {
-	int x = a;
+	char x = 'a';
 
-	while (w <= z)
+	while (x <= 'z')
 	{
 		_putchar('x');
 		_putchar('\n');
