@@ -5,7 +5,9 @@
  */
 void print_alphabet_x10(void)
 {
-	for (int y = 0 ; y < 10 ; y++)
+	int y;
+
+	for (y = 0 ; y < 10 ; y++)
 	{
 		char x = 'a';
 
@@ -16,5 +18,4 @@ void print_alphabet_x10(void)
 			x++;
 			}
 	}
-	return (0);
 }
